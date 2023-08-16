@@ -1,0 +1,24 @@
+Product backlog    ____    Requirements
+sprint planning    ____     
+Sprint Backlog
+ 1 scrum team
+Sprint Review
+Increment
+
+
+
+
+Funtional Testing:   
+		Checks whether the application is providing all the
+functionalities that were mentioned in the functional requirement of
+that application.. 
+
+
+
+Non-Functional Testing:
+		Checks the performance, Memory management or health
+ of the system.
+
+Database Testing:
+		Chekcs the Schema,tables,triggers,etc. of the database
+under test. It also checks data intergrity and consistency.
